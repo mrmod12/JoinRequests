@@ -1,5 +1,5 @@
 # Join Request Ex:
-### Name:
+### Github Name:
 ### Experiences:
 ### Websites:
 ### Email ("Opt"):
