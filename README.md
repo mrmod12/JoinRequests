@@ -1,4 +1,4 @@
-# Reqeusts
+# Requests
 
 [Join HTML5 Devs](https://github.com/HTML5DevGroup/JoinRequests/blob/master/requests.md)
 
